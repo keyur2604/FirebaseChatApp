@@ -2,7 +2,7 @@
 
 A **basic terminal-based chat application** using Firebase Realtime Database and Python. Designed for learning and prototyping, this app demonstrates simple messaging between two users via the console.
 
-![Chat App Screenshot](https://github.com/keyur2604/FIrebase-Chat-App/assets/168451989/f4856163-c9d3-43aa-bdb7-42f9eb7d89c5)
+![Chat App Screenshot](https://github.com/9keystrokes/FIrebase-Chat-App/assets/168451989/f4856163-c9d3-43aa-bdb7-42f9eb7d89c5)
 
 ---
 
